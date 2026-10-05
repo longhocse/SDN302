@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "title": "Node.js Design Patterns",
+    "category": "IT",
+    "author": "Mario Casciaro"
+  },
+  {
+    "id": 2,
+    "title": "JavaScript: The Good Parts",
+    "category": "IT",
+    "author": "Douglas Crockford"
+  },
+  {
+    "id": 3,
+    "title": "Clean Code",
+    "category": "IT",
+    "author": "Robert C. Martin"
+  },
+  {
+    "id": 4,
+    "title": "The Hobbit",
+    "category": "Fantasy",
+    "author": "J.R.R. Tolkien"
+  },
+  {
+    "id": 5,
+    "title": "Atomic Habits",
+    "category": "Self-help",
+    "author": "James Clear"
+  },
+  {
+    "id": 6,
+    "title": "Learning Node.js",
+    "category": "IT",
+    "author": "John Doe"
+  }
+]
