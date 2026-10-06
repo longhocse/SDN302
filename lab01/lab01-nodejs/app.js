@@ -52,4 +52,4 @@ const discountedPrice = applyDiscount(price, 20);
 
 console.log("Original price:", formatPrice(price));
 console.log("After 20% discount:", formatPrice(discountedPrice));
-console.log("ISBN valid:", isValidISBN("9781234567890"));
+console.log("ISBN valid:", isValidISBN("9781234567890"));//
